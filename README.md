@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hettarkhala
-- 👀 I’m interested in creative programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on what you are finding 😜
+
 - 📫 How to reach me 
 You can reach me by email: hettarkhala068@gmail.com
 
